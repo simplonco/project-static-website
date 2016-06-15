@@ -1,4 +1,4 @@
-# Projet de Groupes HTML / CSS / Bootstrap
+# Projet de Groupes (HTML / CSS / Bootstrap)
 
 **Caractéristiques**
 
